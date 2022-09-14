@@ -1,0 +1,14 @@
+{
+  "resourceName": "store1",
+  "policyUUID": "6dcb8b88",
+  "bucketName": "bucket-nway",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
